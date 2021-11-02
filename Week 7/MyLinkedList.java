@@ -6,6 +6,8 @@ Name: Austin C Arledge
 Date: 22 Jan 2021
 
 Notes: No commands needed, just run "java MyClassList" in cmd in the root folder and read output
+
+Creates 10 node objects, places them into a linked list, reverses the list, and un-reverses the lists back.
 *******************/
 
 // Java program for reversing the linked list
