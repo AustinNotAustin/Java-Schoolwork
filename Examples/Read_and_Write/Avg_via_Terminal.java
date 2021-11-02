@@ -7,7 +7,7 @@ import java.util.Scanner;
 // Austin C Arledge
 // 23 Mar 21
 
-// Notes: This program accepts numbers from the end user and averages it.
+// Notes: This program accepts numbers from the end user and averages it. It can also optionally save the results to a CSV.
 // RUN: To run, open cmd in the same dir as this file, run it with "java Main". The prompts should guide you frome there.
 
 public class Main {
