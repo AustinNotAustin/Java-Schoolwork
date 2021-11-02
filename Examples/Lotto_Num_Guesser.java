@@ -3,7 +3,7 @@ Name: Austin C Arledge
 
 Date: 13 Jan 2021
 
-Notes: I think the objective was to create a lotto number, than make a program to guess it. I did that with .ceil and .random as instructed. I hope this is what you wanted.
+Note: This program randomly generates numbers while attempting to guess a pre-defined lotto number. 
 *******************/
 
 public class LottoWinner {
@@ -77,7 +77,7 @@ public class LottoWinner {
          
             System.out.println(String.valueOf(attemptedLotto[i]));
          }
-			
+			// Check for a matching number
 			if (attemptedLotto[0] == winningLotto[0])
 				if (attemptedLotto[1] == winningLotto[1])
 					if (attemptedLotto[2] == winningLotto[2])
